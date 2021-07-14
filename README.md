@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Project Overview
 
@@ -38,4 +38,4 @@ The counties results were:
 - County Denver received 82.8% and 306,055 number of votes.
 - County Arapahoe received 6.7% and 24,801 number of votes.
 
-Denver had the highest number of votes
+Denver has the highest number of votes
